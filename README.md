@@ -1,2 +1,2 @@
 # AI-project
-Dogs and cats detection, computer vision.
+This is a project about computer vision that can dogs and cats.
