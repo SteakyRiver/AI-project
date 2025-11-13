@@ -1,2 +1,2 @@
 # AI-project animals
-This is a Python project made with cv2 and matplotlib about computer vision that can detect **dogs and cats**.
+This is a <ins>Python</ins> project made with <ins>cv2 and matplotlib</ins> about computer vision that can detect **dogs and cats**.
